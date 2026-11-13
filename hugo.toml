@@ -2,7 +2,9 @@ baseURL = "https://zigbee2mqtt-pairing-help.pages.dev/"
 languageCode = "en-us"
 title = "Zigbee2MQTT Pairing Help"
 enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
 [params]
+template_version = "v1.1.0"
 description = "Pair one Zigbee device with Zigbee2MQTT and verify state, control, and recovery."
 category = "HomeLab"
 source = "zigbee2mqtt-pairing-help"
