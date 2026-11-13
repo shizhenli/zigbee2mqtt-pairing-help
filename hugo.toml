@@ -1,7 +1,7 @@
 baseURL = "https://zigbee2mqtt-pairing-help.pages.dev/"
 languageCode = "en-us"
 title = "Zigbee2MQTT Pairing Help"
-enableRobotsTXT = true
+enableRobotsTXT = false
 disableKinds = ["taxonomy", "term"]
 [params]
 source = "zigbee2mqtt-pairing-help"
