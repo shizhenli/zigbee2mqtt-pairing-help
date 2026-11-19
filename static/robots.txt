@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://zigbee2mqtt-pairing-help.pages.dev/sitemap.xml
+
+Sitemap: https://zigbee2mqtt.handytasklab.com/sitemap.xml
